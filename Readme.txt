@@ -15,3 +15,5 @@ Create a new directory called test and add a test file:
 
 Inside apiTests.js, write your code.
 
+npm test - to execute the test.
+
